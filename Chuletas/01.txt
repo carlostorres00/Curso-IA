@@ -1,0 +1,65 @@
+# SESIÓN 1 - Hola Modelo
+
+## Entorno
+
+# Terminal
+python -m venv .venv
+.venv\Scripts\activate
+deactivate
+
+# Ejecutar
+python main.py
+
+## Variables de entorno
+
+.env
+GEMINI_API_KEY=...
+
+load_dotenv()
+os.getenv("GEMINI_API_KEY")
+
+## Paquetes
+
+google-genai
+python-dotenv
+
+## Conversación
+
+while True
+input()
+break
+
+historial = []
+historial.append(...)
+
+## Imports
+
+from config import client, SYSTEM_PROMPT
+from gemini_client import preguntar_a_gemini
+
+## Estructura
+
+config.py
+    ↓
+gemini_client.py
+    ↓
+main.py
+
+## Git
+
+git init
+.gitignore
+git status
+git add .
+git commit -m "mensaje"
+git push
+
+## Ideas clave
+
+- Un entorno virtual por proyecto.
+- Ejecutar siempre con el Python de `.venv`.
+- API en `.env`, nunca en el código.
+- Configuración → `config.py`.
+- Lógica Gemini → `gemini_client.py`.
+- Programa → `main.py`.
+- Refactorizar = reorganizar sin cambiar el comportamiento.
