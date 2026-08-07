@@ -1,0 +1,157 @@
+=========================================
+FASE 1 - BLOQUE 1
+LLMs, Prompt Engineering y Structured Outputs
+=========================================
+
+-----------------------------
+LLAMADA BÁSICA
+-----------------------------
+
+response = client.models.generate_content(
+    model=MODEL_NAME,
+    contents=prompt
+)
+
+-----------------------------
+ESTRUCTURA DEL PROYECTO
+-----------------------------
+
+config.py
+gemini_client.py
+schemas.py
+main.py
+prompts/
+    role.txt
+    json.txt
+
+-----------------------------
+LEER UN PROMPT
+-----------------------------
+
+with open("prompts/role.txt", "r", encoding="utf-8") as archivo:
+    prompt = archivo.read()
+
+-----------------------------
+PROMPT ENGINEERING
+-----------------------------
+
+Role Prompting
+
+Eres un profesor...
+Eres un pirata...
+
+-----------------------------
+
+Instrucciones claras
+
+- Máximo 100 palabras
+- Responde en español
+- No inventes datos
+
+-----------------------------
+
+Delimitadores
+
+###
+...
+###
+
+o
+
+"""
+...
+"""
+
+-----------------------------
+
+Few-shot Prompting
+
+Ejemplo 1
+
+Ejemplo 2
+
+Ahora responde.
+
+-----------------------------
+JSON POR PROMPT
+-----------------------------
+
+Responde únicamente con un JSON válido.
+
+⚠️ No garantiza el formato.
+
+=========================================
+PYDANTIC
+=========================================
+
+Instalar
+
+pip install pydantic
+
+Importar
+
+from pydantic import BaseModel
+
+Crear esquema
+
+class Concepto(BaseModel):
+    concepto: str
+    definicion: str
+    ejemplo: str
+
+=========================================
+STRUCTURED OUTPUTS
+=========================================
+
+Importar
+
+from google.genai import types
+
+Configurar Gemini
+
+config=types.GenerateContentConfig(
+    response_mime_type="application/json",
+    response_schema=Concepto,
+)
+
+Devolver objeto
+
+return response.parsed
+
+Acceder a los datos
+
+respuesta.concepto
+respuesta.definicion
+respuesta.ejemplo
+
+=========================================
+IDEA CLAVE
+=========================================
+
+Antes
+
+LLM
+ ↓
+Texto
+ ↓
+Python intenta interpretarlo
+
+Ahora
+
+LLM
+ ↓
+JSON
+ ↓
+Pydantic
+ ↓
+Objeto Python
+
+=========================================
+CONCEPTOS IMPORTANTES
+=========================================
+
+BaseModel           → Define un esquema de datos.
+response_schema     → Obliga al modelo a seguir ese esquema.
+response.parsed     → Devuelve el objeto ya validado.
+prompts/*.txt       → Los prompts viven fuera del código.
+schemas.py          → Contiene los esquemas reutilizables.

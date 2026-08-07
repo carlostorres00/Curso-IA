@@ -1,0 +1,271 @@
+VX10C02P-D-06/02/24 N0026249LNNNN
+LARS TANKMAR TANKMAR
+AVENIDA ONZE DE SETEMBRE 1 ESC-3 ATC-2
+17255 BEGUR
+GIRONA
+Endesa Energía, S.A. Unipersonal. Inscrita en el Registro Mercantil de Madrid. Tomo 12.797, Libro 0, Folio 208,
+ Sección 8ª, Hoja M-205.381, CIF A81948077. Domicilio Social: C/Ribera del Loira, nº60 28042 - Madrid.
+Endesa Energía, S.A. Unipersonal.
+CIF A81948077.
+C/Ribera del Loira, nº 60 28042 - Madrid.
+DATOS DE LA FACTURA
+Nº factura: PMM401N0380480
+Referencia: 012294855257/0412
+Fecha emisión factura: 05/02/2024
+Periodo de facturación: del 31/12/2023 a 31/01/2024 (31 días)
+Fecha de cargo: 12 de febrero de 2024
+....................................................................................................................................................................
+RESUMEN DE LA FACTURA Y DATOS DE PAGO
+Potencia
+23,18 €
+Energía
+12,46 €
+Otros
+1,57 €
+Impuestos
+4,71 €
+...........................................................................................................................................
+Total
+41,92 €
+(Detalle de la factura en el reverso)
+Forma de pago: Domiciliación bancaria
+Fecha de cargo: 12 de febrero de 2024
+IBAN: ES85008106811400013*****
+Cod.Mandato: E00020700522386500030001
+Versión: 0002
+Su pago se justifica con el correspondiente apunte bancario
+..............................................................
+INFORMACIÓN DEL CONSUMO ELÉCTRICO
+De 31/12/2023 a 31/01/2024 (31 días)
+Consumo horas Happy
+11,456 kWh
+Consumo resto horas
+52,801 kWh
+.........................................................................................................................................
+Consumo total
+64,257 kWh
+Calculado utilizando el consumo horario real proporcionado por su distribuidora
+(Calidad del 100%).
+Con Tempo Happy el
+del consumo le ha costado 0 €
+18%
+..................................................................................
+Evolución del consumo
+kWh
+140
+120
+100
+80
+60
+40
+20
+0
+DIC
+22
+ENE
+23
+FEB
+23
+MAR
+23
+ABR
+23
+MAY
+23
+JUN
+23
+JUL
+23
+AGO
+23
+SEP
+23
+OCT
+23
+NOV
+23
+DIC
+23
+ENE
+24
+Consumo Real
+Media
+Coste en esta factura 1,35 €/día
+Coste últimos 14 meses 1,29 €/día
+Consumo último año 815 kWh
+Las potencias máximas demandadas en el último año han sido 1.0 kW en P1
+(punta) y 0.7 kW en P3 (valle).
+El consumo medio mensual de los consumidores que están en su mismo código postal
+y tienen potencias contratadas inferiores o iguales a 15 kW, para su periodo de
+facturación es de 137,05 kWh.
+LARS, ¿sabes que este año llevas consumido
+332 kWh?
+Entra en infoEnergía, tu herramienta de
+asesoramiento energético gratuita, y
+ahorra en tu factura.
+Infórmate en endesa.com/infoenergia
+
+DATOS DEL CONTRATO
+Titular del contrato: LARS TANKMAR TANKMAR
+NIF: X6734355R
+Dirección de suministro: AVENIDA ONZE DE SETEMBRE 29, ASC
+BEGUR GIRONA, GIRONA
+Contrato de mercado libre: Tempo Happy
+Referencia de contrato de suministro: 012294855257
+Potencias contratadas: punta 6,928 kW; valle 6,928 kW
+Fin de contrato de suministro: 13/10/2024 (renovación anual
+automática)
+Permanencia: No
+CUPS: ES0031406261525008TW0F
+Distribuidora: EDISTRIBUCION REDES DIGITALES
+Referencia del contrato de acceso: 500005444785
+Peaje de transporte y distribución: 2.0TD
+Segmento de cargos: 1
+Nº contador: 200241681
+.......................................................
+DESTINO DEL IMPORTE DE LA FACTURA
+El importe total de su factura tiene este destino:
+> 44,15% Energía. Incluye, entre otros, el coste de la energía en el mercado, los pagos por
+capacidad y la retribución al Operador del Sistema (REE) y al Operador de Mercado (OMIE).
+> 3,29% Alquiler de contador
+> 11,24% Impuestos
+> 34,64% Peajes de transporte y distribución. Retribuyen las redes de transporte y distribución.
+> 6,68% Cargos: Incluyen la retribución a las renovables, cogeneración y residuos (RECORE)
+0,00%, las anualidades del déficit 81,00%, el sobrecoste de generación en TNP (territorios no
+peninsulares) 18,00% y otros 1,00%.
+INFORMACIÓN DEL CONSUMO ELÉCTRICO
+A efectos de facturación de los peajes y cargos
+Periodo
+31/12/2023
+31/01/2024
+Multipl.
+Ajuste
+Consumo
+Lectura
+Lectura
+real
+real
+Energía
+kWh
+Punta
+606
+622
+1
+0
+16
+Llano
+632
+651
+1
+0
+19
+Valle
+975
+1.006
+1
+0
+31
+Potencia
+kW
+punta
+0,366
+1
+0,366
+valle
+0,444
+1
+0,444
+Puede consultar el detalle del consumo horario (CCH) desde nuestra web o desde la web
+de la distribuidora (https://zonaprivada.edistribucion.com/areaprivada)
+INFORMACIÓN DE SU PRODUCTO
+Con esta tarifa no pagarás por la energía consumida en las horas o días
+que hayas escogido y podrás cambiar la opción en cualquier momento.
+ATENCIÓN AL CLIENTE
+Atención / Reclamaciones
+800760909 (tlf. gratuito, disponible 24h)
+www.endesaclientes.com
+atencionalcliente@endesaonline.com
+C/ Ribera del Loira 60 - 28042 Madrid (solo correo postal)
+Endesa Energía está adherida al Sistema Arbitral de Consumo. Para ampliar la
+información sobre las reclamaciones que pueden ser tratadas a través del arbitraje
+consultar www.endesaclientes.com.
+Una vez realizada la reclamación ante la compañía eléctrica, y si persiste la
+discrepancia sobre el contacto de suministro o facturaciones, también estará
+disponible la Oficina Municipal de información al Consumidor (O.M.I.C) de la localidad
+o, en su caso, la Dirección General de Consumo o de Industria de la comunidad
+autónoma.
+Averías / Urgencias distribuidora
+800 76 07 06 - EDISTRIBUCION REDES DIGITALES
+DETALLE DE LA FACTURA
+Potencia
+23,18 €
+Pot.Punta 6,928 kW x 0,090467 Eur/kW x 31 días
+19,43 €
+Pot.Valle 6,928 kW x 0,017462 Eur/kW x 31 días
+3,75 €
+Energía
+12,46 €
+Horas Happy de mayor consumo 11,456 kWh x 0 Eur/kWh
+0,00 €
+Resto de horas 52,801 kWh x 0,235931 Eur/kWh
+12,46 €
+Varios
+1,57 €
+Financiación Bono Social 31 días x 0,006282 EUR/día
+0,19 €
+Alquiler del contador (31 días x 0,044516 Eur/día)
+1,38 €
+Impuestos
+4,71 €
+Impuesto electricidad ( 35,83 X 2,500000 % )
+0,90 €
+IVA normal 10%   s/ 38,11
+3,81 €
+TOTAL
+41,92 €
+En virtud del Real Decreto-ley 8/2023, de 27 de diciembre, el IVA aplicable a su factura se
+encuentra reducido del 21% al 10%.
+En virtud del Real Decreto-ley 8/2023, de 27 de diciembre, el impuesto especial de la electricidad
+aplicable a su factura se encuentra reducido del 5,11269632% al 2,5%.
+A partir del 1 de enero de 2024 los precios de su tarifa se han actualizado trasladando las
+variaciones reguladas de los peajes y otros conceptos regulados (Resolución de 21 de diciembre
+de 2023 de la CNMC por la que se establecen los valores de los peajes de acceso a las redes de
+transporte y distribución de electricidad de aplicación a partir del 1 de enero de 2024 BOE
+25-12-2023, Real Decreto-ley 8/2023 de 27 de diciembre BOE 28-12-2023, Resolución de 15 de
+diciembre de 2023 de la CNMC por la que se establece la cuantía de retribución del operador del
+sistema eléctrico para 2024 BOE 26-12-2023, y variación regulada introducida por la subasta del
+servicio de respuesta activa de la demanda para el año 2024 según lo establecido en la
+Resolución de 19 de octubre de 2023 de la CNMC BOE 02-11-2023), y trasladando la variación
+del IPC según lo establecido en las condiciones de su contrato.
+Incluido en el importe facturado está el coste del peaje de transporte y distribución, que ha sido
+de 14,52 € (13,61 € potencia, 0,91 € por energía activa), y de los cargos, que ha sido de 2,80 €
+(1,86 € potencia, 0,94 € por energía activa). Los precios de peajes de transporte y distribución
+han sido publicados en la Resolución de 21 de diciembre de 2023 de la CNMC (BOE 25-12-2023)
+y los de los cargos en el Real Decreto-ley 8/2023 de 27 de diciembre (BOE 28-12-2023). El precio
+del alquiler del contador ha sido publicado en la Orden IET 1491/2013 de 3 de agosto.
+INFORMACIÓN PARA EL CONSUMIDOR
+Código QR y enlace https://comparador.cnmc.gob.es para acceder al
+Comparador de Ofertas de la CNMC:
+AHEEEHAPCFFOAKKCLEPFJOMHPDHDCJCEBLJKEKIOPLDNNCGCAJPMGINPLCFJJJBAHJLPIPAHEEEHA
+BNFFFNBPMGBKMPIKJHMHEPFHAHFHAKJCNDNPIDADACJKMKAHFHALMDACNLAGJPFGFKBGEPBNFFFNB
+DLCGMEFHNJDLOKHGLLBKDNBKECCCHGADIBGKINPOHPJDMJDBDECODPGHPBCNAOGKPPEMDKDJNEPDD
+IONFODFEPBBCHDOLLMNEPFMHIGMJKBELICOEHBBIMIEPMFIKDMOHAIEOGEMIEHKCHAPFFHMBEHBCJ
+ACCEACFNKFMAFOCCNJEELEHKLIFPLNMNDHJCIIFBILGLDABODBMIPEAOIOOFBJJMBLHCLBPPPFMNO
+ACDKFJFDNFDIJEIEJGFBLOIBGNBGLHJKNFGAOFGOHOAHNBMIPEDIHOLHNJLMNFAOHHLPJAHENJHPC
+LAMDAHFHAMNLBPHINEILDEBKAHFHAPMGEPPIBIBBPBFAMMAHFHAHMJGMBENIIABDLBBAAHFHANBAF
+CNJJGHFCFFGLPFNHHADBNACLGHGFHEPKCDJIPEEAMNOEFJHAEGDJCMIKMMAFDBIOGNLFAEBBALOKO
+NICBHCFIPLEIFBHPDINICFKJFBKDJMIJMINHEDHLHIGHIOCFODIEDPEDEHMIJMAOMGBMFPEKJNBEK
+CJNBLIFLGDGBJHPFPPNOLOLHBBJMOPKCMIPEFKACJOMKIAIJCINFBANNOMPKEHNHPAPHJGBGHIBCI
+ALKCFEFMMKKKJMCBBLNKKDGCEGGLDIILDHAIMPKGFAHPHEOEOKOIKKHFDGBHABHMDFNKMIFNNJOBH
+NHGMEBFJMCPPKHLINOFNHNHMIFFFIGGMIMHGOLGGBHJILPABFNAODHLHPILNKEMOIFBHMFFBMIBMD
+PJEEBMFMAIJDPGIPGDKGHAABAMFNBOBGKCBJDHIGMINHEDBNFNADEIGMLEAEAPKFAJJEAMENBDHLB
+OIKMJCFGDIGCONDOKEBBHMBJELPMFNFOCDJPILEFKMOKHFEHPBLILOKLNOLHPIHLGEIKIHOPFBOLK
+KLIOMMFMDADIPLDOCKEBNIFHKCJBILLKKHMLIOOADNJHICIIBKFKPHOBHJAIBEPEAMOKJDCNDPFGC
+KEMBJMFNFFNPMLPENLMBCALLMGCDBPPEPFPBDHIEMJELIGHILKFDCBNOFFMOEPKHBBKIOAIBMMHLA
+DNLLEFFEHLJPCNALCACGBHCONNONIGEOHLBEIHGPKFPHHIEFEPNIOMHKEHCDNKDIJFMOPLMNEEILO
+MFFFFNEPIDJDMDKCBBLIJEEBAHFHAIAGNLMCNGHAGBJLONAHFHANAPPDOBLMJECODEMIAHFHAOPBC
+APBBBPAPJCDBLLGHEMNLINNBHBHCFAEDJEPPHDBPMAGKIMHBCBHHEJJIKGILFHKDLKAKCCBBDGFON
+HHHHHHHPHHHPPPPHPPHHPPPPPHHHPHHHHPPPPPHHPPPPHPHPHPPPPHPPPPPHHPHPHHHHHPPPPHHHP
+
+VX10C02P-D-06/02/24 S0026250LNNNN
+

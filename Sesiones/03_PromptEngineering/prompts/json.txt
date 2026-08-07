@@ -1,0 +1,14 @@
+Responde únicamente con un objeto JSON válido.
+
+No escribas ninguna explicación.
+
+Devuelve exactamente esta estructura:
+
+{
+  "concepto": "",
+  "definicion": "",
+  "ejemplo": ""
+}
+
+Concepto:
+Número primo
