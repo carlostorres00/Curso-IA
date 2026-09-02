@@ -1,0 +1,40 @@
+Ejemplo de práctica OCR — Documento mixto
+Este párrafo SÍ es texto nativo del PDF. Si abres este documento con pypdf o pdfplumber y llamas a extract_text(), esta frase aparecerá tal cual en el resultado, porque está codificada como texto real dentro del PDF, no como una imagen.
+Sin embargo, justo debajo tienes una tabla de gastos que en realidad es una imagen PNG incrustada en la página (simula un documento escaneado). Ese texto NO aparecerá al usar extract_text(): necesitarás aplicar OCR (por ejemplo con pytesseract sobre la imagen renderizada de la página) para recuperarlo.
+RESUMEN DE GASTOS - PROYECTO I+D+i
+Concepto Horas Coste (EUR)
+Investigacion basica 120 4.500,00
+Desarrollo de prototipo 310 11.200,00
+Validacion experimental 95 3.150,00
+Documentacion tecnica 40 1.020,00
+Nota didáctica: en un PDF real, la única forma de distinguir a simple vista un bloque de texto nativo de un bloque de imagen es intentando seleccionarlo con el ratón en un lector de PDF; el texto nativo se selecciona letra a letra, la imagen se selecciona como un bloque rectangular único.
+Página 2 — Texto, tabla nativa y sello escaneado
+A continuación hay una tabla construida con reportlab (por tanto, también es texto nativo y extraíble con pdfplumber.extract_tables()):
+Fase Responsable Estado
+Diseño C. Martínez Completado
+Implementación Equipo Dev En curso
+Revisión fiscal Asesoría externa Pendiente
+Ahora, un sello de revisión que llegó como imagen escaneada y ligeramente rotada (caso típico en documentos administrativos reales):
+NOTA DE REVISION INTERNA
+Documento validado por el departamento
+tecnico, Referencia expediente: RD-2026-014.
+Fecha de sello: 08/08/2026.
+Página 3 — Página íntegramente escaneada
+Esta última página apenas tiene texto nativo (este pequeño encabezado y este párrafo). El resto de la página es una única imagen grande que contiene un título, un párrafo largo y una lista de comprobación, exactamente como si fuera un anexo firmado en papel y luego escaneado. Este es el caso más común y más realista de un documento que requiere OCR completo, página a página.
+MEMORIA TECNICA - ANEXO ESCANEADO
+Este anexo se ha incorporado al expediente en formato imagen, tal y
+como ocurre habitualmente cuando se digitalizan documentos firmados en
+papel o sellados por un organismo externo. El extractor de texto
+estandar no puede leer este contenido porque no existe una capa de
+texto real dentro del PDF: lo que ves aqui son pixeles, no caracteres
+codificados. Para recuperar esta informacion es necesario aplicar un
+proceso de reconocimiento optico de caracteres, comunmente conocido
+como OCR, que analiza la imagen y reconstruye el texto que contiene.
+Este parrafo es intencionadamente largo para que puedas comprobar como
+tu pipeline de OCR gestiona bloques de texto extensos, con varias
+lineas y palabras en minusculas y mayusculas.
+Lista de comprobacion:
+1. Certificado de titularidad del proyecto
+2. Informe de horas dedicadas por el equipo
+3. Justificantes de gasto asociados
+4. Firma y sello del responsable tecnico

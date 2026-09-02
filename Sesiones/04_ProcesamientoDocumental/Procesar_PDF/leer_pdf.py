@@ -34,5 +34,4 @@ for archivo in os.listdir("Documentos"):
 
     with open(f"textos/{nombre_txt}", "w", encoding="utf-8") as f:
         f.write(texto)
-    pdf.close()
 
